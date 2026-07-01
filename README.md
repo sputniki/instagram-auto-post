@@ -2,12 +2,12 @@
 BASH-Script als Middleware zum Posten der generierten Termin-Kacheln von https://lorenztroll.github.io/wir-festival-kacheln/editor.html
 
 ## Voraussetzung:
-* cp .env.example .env
-* vi .env
+´´´* cp .env.example .env
+* vi .env´´´
 
-ACCESS_TOKEN=<<USER-ACCESS-TOKEN>>
+´´´ACCESS_TOKEN=<<USER-ACCESS-TOKEN>>
 
-IG_USER_ID=<<171111100000000000>>
+IG_USER_ID=<<171111100000000000>>´´´
 
 ## Verwendung:
 
