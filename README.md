@@ -6,6 +6,7 @@ BASH-Script als Middleware zum Posten der generierten Termin-Kacheln von https:/
 * vi .env
 
 ACCESS_TOKEN=<<USER-ACCESS-TOKEN>>
+
 IG_USER_ID=<<171111100000000000>>
 
 ## Verwendung:
